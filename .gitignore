@@ -1,0 +1,34 @@
+# Dependency directories
+node_modules/
+.pnp/
+.pnp.js
+
+# Testing outputs
+coverage/
+
+# Production builds
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.swp
+
+# Misc
+*.log
+
